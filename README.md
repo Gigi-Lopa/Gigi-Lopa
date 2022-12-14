@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilbert T Lopah</h1>
 <h3 align="center">A passionate backend and frontend developer from Zimbabwe</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gigi-lopa" alt="gigi-lopa" /></a> </p>
 
 - 🔭 I’m currently working on **Kestrel Express System**
 
