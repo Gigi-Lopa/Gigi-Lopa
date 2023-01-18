@@ -1,0 +1,339 @@
+/****************************************
+    GLOBAL STYLES
+
+****************************************/
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat/Montserrat-Medium.ttf);
+}
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'Montserrat Bold';
+}
+a{
+    text-decoration: none !important;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    color: #000;
+}
+.spaced-items{
+    display: flex;
+    justify-content: space-between;
+}
+.center-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-col{
+    flex-direction: column;
+}
+.r-col{
+    flex-direction: row;
+}
+.primary-text{
+    color: #0099ff;
+}
+.secondary-text{
+    color: #e65b00;
+}
+.text-bold{
+    font-weight: bold;
+}
+/****************************************
+    NAVBAR
+
+****************************************/
+.nav{
+    padding-top: 15px;
+    position: fixed;
+    backdrop-filter: blur(15px);
+    z-index: 9999;
+    width: 100%;
+    align-items: center;
+}
+.nav-links{
+    display: flex;
+    justify-content: right;
+}
+.nav-links ul{
+    display: flex;
+    flex-direction: row;
+}
+.nav-link{
+    margin-right: 5px;
+}
+.nav-link a{
+    color: #000;
+}
+.active {
+    background-color: #0099ff;
+    color: #ffbf15;
+    text-shadow: 2px 2px #e65b00;
+    font-weight: bold; 
+    border-radius: 7.5px;   
+}
+.active a{
+    color: #ffbf15 !important;
+}
+/**
+* Mobile Navigation 
+*/
+.mobile-nav-toggle,
+.bi-x {
+    color: #012970 !important;
+    font-size: 28px;
+    cursor: pointer;
+    display: none;
+    line-height: 0;
+    transition: 0.5s;
+    float: right;
+}
+.mobile-nav-toggle.bi-x {
+color: #fff;
+}
+
+@media (max-width: 991px) {
+    .mobile-nav-toggle {
+        display: block;
+    }
+    .nav-links ul {
+        display: none;
+    }
+    .nav{
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+}
+
+.navbar-mobile {
+overflow: hidden;    }
+
+.navbar-mobile ul {
+display: block;
+overflow-y: auto;
+transition: 0.3s;
+margin-right: 15px;
+}
+.navbar-mobile ul li{
+    margin-bottom: 7.5px;
+    padding-left: unset;
+}
+.navbar-mobile ul:last-child{
+    margin-bottom: 0px !important;
+}
+
+
+/****************************************
+    HERO
+
+****************************************/
+#hero{
+    height: 100vh;
+   padding-top: 125px;
+}
+.container-nav,
+.container-body {
+    margin: 1em auto;
+}
+
+.container-nav,
+.container-body {
+    max-width: 900px;
+    padding: 0 25px;
+}
+.container-nav {
+    width: 100%;
+}
+.me-log-container{
+    width: 100%;
+    height: 100%;
+    
+}
+.me-log{
+    width: auto;
+    height: 200px;
+}
+.small-header { 
+    font-family: 'Montserrat' !important; 
+}
+.big-header{
+    font-size: 3rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.showcase a{
+    color: #fb7013;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all ease-in-out 0.3s;
+}
+.showcase a:hover{
+    color: #0099ff;
+}
+.sm-h p{
+    font-size: 1rem;
+}
+.socials{
+   margin-top: 4rem;
+}
+.social-icon{
+    
+    text-decoration: none;
+    color: #000;
+    font-size: 1.7rem;
+    transition: all ease-in-out 0.3s;
+    margin-top: 2.5px;
+}
+.social-icon:hover{
+    color: #e65b00;
+}
+.mail-pill{
+    background-color: #000;
+    border-radius: 50px;
+    padding: 7.5px 15px;
+    color: white;
+}
+.mail-pill:hover{
+    background-color: #0099ff;
+    font-weight: bold; 
+    color: #ffbf15 !important;
+    text-shadow: 2px 2px #e65b00;
+
+}
+@media (max-width: 777px) {
+    #hero{
+        height: fit-content;
+        margin-bottom: 80px;
+    }
+}
+
+   
+/****************************************
+    EXPERIANCE SEC
+
+****************************************/
+.exp-card{
+    width: 100%;
+}
+.exp-date{
+    border-right: 1px solid #000;
+}
+.exp-date h6{
+    font-size: 0.85rem;
+}
+.exp{
+    margin-left: 25px;
+    border: 1px solid #333;
+    padding: 25px;
+    margin-bottom: 35px;
+}
+.status
+{
+  
+    font-size: 0.8rem;    
+    padding-left: 0px !important;
+    font-style: italic;
+}
+.com-name{
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    text-transform: capitalize !important;
+    
+}
+.sm-exp-date{
+    font-size: 0.95rem;
+    display: none;
+}
+.duty{
+    font-size: 0.9rem;
+    line-height: 25px;
+}
+.no-marg-btm{
+    margin-bottom: 0px !important;
+}
+@media (max-width:767px){
+    .exp-date{
+        border-right: unset !important;
+        margin-bottom: 15px;
+    }
+}
+/****************************************
+
+    PROJECTS SEC
+
+****************************************/
+#projects{
+    margin-top: 5rem;
+    padding-top: 2.5rem;
+    background-color: #000;   
+}
+#projects h3{
+    color: #fff;
+}
+
+.project-card{
+    margin-right: 15px;
+    margin-bottom: 20px;
+    position: relative;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 5%);
+    background-color: rgb(19, 18, 18);
+}
+.card-background{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+   
+}
+.project-card.col-md-3{
+    padding: unset !important;
+}
+.card-background i{
+    font-size: 4rem;
+    color: #0099ff5e;
+}
+.project-infor{
+    padding: 15px 7.5px 15px 7.5px;
+}
+.text-justify{
+    text-align: justify;
+}
+.project-card-header i{
+    font-size: 1.5rem;
+    color: #e65b00;
+}
+.project-card-header .arr{
+    margin-inline: 5px;
+}
+.gitop{
+    margin-top: 5px;
+}
+.project-card-body h6{
+    color: #0099ff;
+}
+.project-card-body p{
+    font-size: 0.9rem !important;
+    color: #fff;
+    font-weight: lighter;
+}
+.project-card-langs{
+    display: flex;
+    flex-direction: row;
+}
+.lang{
+    color: gray;
+    font-family: 'Consolas';
+}
