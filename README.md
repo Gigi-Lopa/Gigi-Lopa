@@ -1,26 +1,56 @@
-<h1 align="center">Hi 👋, I'm Gilbert T Lopah</h1>
-<h3 align="center">A passionate backend and frontend developer from Zimbabwe</h3>
+# 👨‍💻 Gilbert Lopah
+
+**Software Engineer | AI Enthusiast | Full-Stack Developer**
+
+Hi there! 👋 I'm **Gilbert Lopah**, a passionate Software Engineer who builds innovative, scalable, and user-focused solutions — from full-stack web apps to intelligent AI systems. I enjoy solving complex problems with clean code and thoughtful design.
+
+---
+
+## 💼 What I Do
+
+- 🚀 Build **full-stack applications** with **React**, **Django**, **Flask**, and **Node.js**
+- 🤖 Develop **AI-powered solutions** using **Python**, **TensorFlow**, **PyTorch**, and **Transformers**
+- 🧠 Create **ML/NLP models** for real-world problems like review authentication, disease detection, and recommendation systems
+- ☁️ Deploy and manage apps using **Docker**, **Heroku**, **Netlify**, and **Render**
+- 🔒 Implement secure data systems with **version control**, **encryption**, and **audit trails**
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+
+**Backend:**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
+**AI/ML:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow) ![HuggingFace](https://img.shields.io/badge/-Transformers-FCC624?style=flat&logo=huggingface)
+
+**Database & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
+---
 
 
-- 🔭 I’m currently working on **Kestrel Express System**
+## 🧠 Fun Facts
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+- 🎧 I code better with Afrobeats playing in the background
+- 🐍 I'm a Pythonista at heart
+- 📚 I love learning new tools and stacks just for the fun of it
+- 😄 My side projects usually end up more polished than I expect
 
-- 💬 Ask me about **NODEjs, React, React Native, Javascript and Python**
+---
 
-- 📫 How to reach me **gilbert2klopah@gmail.com**
+## 📫 Let's Connect
 
-- ⚡ Fun fact **Am tall and a handsome Goof IKR lol**
-<img align= "right" alt = "Coding Animation" width = "400" src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+- 📩 **Email:** lopahgilbert@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/gilbertlopah](https://linkedin.com/in/gilbertlopah)  
+- 🌍 **Portfolio:** [gigilopah.onrender.com](https://gigilopah.onrender.com)  
+- 🐙 **GitHub:** [@gilbertlopah](https://github.com/Gigi-Lopa)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@gilbertlopah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gilbertlopah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gilbert lopah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilbert lopah" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_lopah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_lopah" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigi-lopa&show_icons=true&locale=en&layout=compact" alt="gigi-lopa" /></p>
+Thanks for visiting! ⭐
