@@ -44,10 +44,10 @@ Hi there! 👋 I'm **Gilbert Lopah**, a passionate Software Engineer who builds 
 
 ## 📫 Let's Connect
 
-- 📩 **Email:** lopahgilbert@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/gilbertlopah](https://linkedin.com/in/gilbertlopah)  
+- 📩 **Email:** gilbert2klopah@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/gilbertlopah](www.linkedin.com/in/gilbert-lopah-38951620a)  
 - 🌍 **Portfolio:** [gigilopah.onrender.com](https://gigilopah.onrender.com)  
-- 🐙 **GitHub:** [@gilbertlopah](https://github.com/Gigi-Lopa)
+- 🐙 **GitHub:** [@gigi-lopah](https://github.com/Gigi-Lopa)
 
 ---
 
